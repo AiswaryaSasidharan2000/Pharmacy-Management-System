@@ -6,3 +6,6 @@
 
 # lock files
 package-lock.json
+
+# log files
+*.log
